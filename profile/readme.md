@@ -2,19 +2,15 @@
 
 [![ask](https://img.shields.io/badge/Ask%20us-anything-1abc9c.svg)](https://github.com/devex-consulting/hello/issues/)
 
-Are you striving to create better developer experiences? At DevEx Consulting our mission is clear: we’re here to help you navigate the fast-paced, performance-driven tech world while making _life@work_ better for developers.
+DevEx Consulting is a French SME driving digital transformation through tailored professional training, AI integration and automation consulting. 
 
-We believe that empowered people build the best solutions. Let’s work together to boost productivity, satisfaction, and innovation from day one.
+We empower SMEs and works councils with practical expertise to adopt AI, streamline operations, and build future-ready skills.
 
 Have ideas or questions? Reach out to us—we’d love to hear from you!
 
-## 👋 Meetups
-
-We want to grow the DevEx conversation, and we’d love for you to be part of it. Join our meetup to connect with others, exchange ideas, and help shape the future of developer satisfaction and success.
-
-📺 [Join us on Meetup](https://www.meetup.com/developer-experience-paris/)
-
 ## 📫 Contact Us on Social Media
+
+We want to grow the conversation, and we’d love for you to be part of it.
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
