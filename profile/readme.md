@@ -16,10 +16,12 @@ We want to grow the conversation, and we’d love for you to be part of it.
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
-[![Meetup](https://img.shields.io/badge/Meetup-FF1154?style=for-the-badge&logo=meetup&logoColor=white)][mt]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
-<!--[![Welcome to the Jungle](https://img.shields.io/badge/Welcome%20to%20the%20Jungle-FFCD00?style=for-the-badge&logo=welcometothejungle&logoColor=black)][wj]
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][yt]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
+<!--
+[![Meetup](https://img.shields.io/badge/Meetup-FF1154?style=for-the-badge&logo=meetup&logoColor=white)][mt]
+[![Welcome to the Jungle](https://img.shields.io/badge/Welcome%20to%20the%20Jungle-FFCD00?style=for-the-badge&logo=welcometothejungle&logoColor=black)][wj]
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][tw]
 [![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=for-the-badge&logo=glassdoor&logoColor=white)][gd]  -->
 or write us by ✉️ [email](mailto:hello@devex-consulting.com) or through an 💬 [issue](https://github.com/devex-consulting/hello/issues/) if you want to!
