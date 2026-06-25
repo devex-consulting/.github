@@ -24,8 +24,9 @@ We want to grow the conversation, and we’d love for you to be part of it.
 [![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=for-the-badge&logo=glassdoor&logoColor=white)][gd]  -->
 or write us by ✉️ [email](mailto:hello@devex-consulting.com) or through an 💬 [issue](https://github.com/devex-consulting/hello/issues/) if you want to!
 
-[mt]: https://www.meetup.com/developer-experience-paris/
 [lk]: https://www.linkedin.com/company/devex-consulting
+[yt]: https://www.youtube.com/@DevExConsulting
+[ig]: https://www.instagram.com/devex_consulting
 
 <!--[wj]: https://www.welcometothejungle.com/
 [tw]: https://x.com
