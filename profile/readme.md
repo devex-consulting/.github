@@ -2,9 +2,11 @@
 
 [![ask](https://img.shields.io/badge/Ask%20us-anything-1abc9c.svg)](https://github.com/devex-consulting/hello/issues/)
 
-DevEx Consulting is a French SME driving digital transformation through tailored professional training, AI integration and automation consulting. 
+DevEx Consulting is committed to supporting digital transformation through tailored professional training, AI integration, and automation consulting.
 
-We empower SMEs and works councils with practical expertise to adopt AI, streamline operations, and build future-ready skills.
+We are a training provider registered in France and Qualiopi-certified for training services.
+
+Our services cater to businesses and social stakeholders—such as Social and Economic Committees (CSEs) or Works Councils—equipping them with practical skills to adopt AI technologies, understand the associated social and ethical implications, and assess the technological impact on work.
 
 Have ideas or questions? Reach out to us—we’d love to hear from you!
 
